@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Egenskaper</string>
+    <string name="property_image">Fastighetsbild</string>
+    <string name="area_title">Område</string>
+    <string name="address_placeholder">%1s, %2s</string>
+    <string name="living_area">%1d  m\u00B2</string>
+    <string name="rooms">%1d  rums</string>
+    <string name="days_on_hemnet">%1d  dagar</string>
+    <string name="ratings">Betyg: %1s</string>
+    <string name="avg_price">Snittpris: %1s</string>
+</resources>
