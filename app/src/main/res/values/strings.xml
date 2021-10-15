@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Properties</string>
+    <string name="property_image">Property Image</string>
+    <string name="area_title">Area</string>
+    <string name="address_placeholder">%1s, %2s</string>
+    <string name="living_area">%1d  m\u00B2</string>
+    <string name="rooms">%1d  rooms</string>
+    <string name="days_on_hemnet">%1d  days</string>
+    <string name="ratings">Ratings: %1s</string>
+    <string name="avg_price">Average price: %1s</string>
+</resources>
